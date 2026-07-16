@@ -39,6 +39,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +69,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
