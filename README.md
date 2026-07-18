@@ -37,6 +37,7 @@
 | [0605-can-place-flowers](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -95,10 +96,12 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
