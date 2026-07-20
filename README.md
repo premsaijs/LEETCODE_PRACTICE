@@ -129,5 +129,6 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0328-odd-even-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
