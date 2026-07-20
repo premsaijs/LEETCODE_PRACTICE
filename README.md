@@ -11,6 +11,7 @@
 | [0392-is-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +126,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0933-number-of-recent-calls/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
