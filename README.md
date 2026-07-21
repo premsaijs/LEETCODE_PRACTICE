@@ -12,6 +12,7 @@
 | [0443-string-compression](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | ------- | ------- |
 | [0394-decode-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@
 | [0206-reverse-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
