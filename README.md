@@ -140,10 +140,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +154,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0872-leaf-similar-trees/) | Easy |
 <!---LeetCode Topics End-->
