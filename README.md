@@ -44,6 +44,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
+| [0994-rotting-oranges](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -101,6 +102,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
@@ -177,6 +179,7 @@
 | [0399-evaluate-division](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
