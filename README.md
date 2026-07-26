@@ -49,6 +49,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Greedy
@@ -100,6 +101,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
