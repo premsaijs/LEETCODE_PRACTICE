@@ -54,6 +54,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0649-dota2-senate/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +234,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
