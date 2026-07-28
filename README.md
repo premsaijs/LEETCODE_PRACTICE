@@ -13,6 +13,7 @@
 | [1768-merge-strings-alternately](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -117,6 +119,7 @@
 | [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +237,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
