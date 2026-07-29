@@ -17,6 +17,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0392-is-subsequence/) | Easy |
@@ -97,6 +98,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -256,4 +258,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
