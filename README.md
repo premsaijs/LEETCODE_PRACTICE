@@ -37,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0011-container-with-most-water/) | Medium |
+| [0162-find-peak-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0283-move-zeroes/) | Easy |
@@ -88,6 +89,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0162-find-peak-element/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
