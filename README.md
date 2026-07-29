@@ -47,6 +47,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -91,6 +92,7 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0162-find-peak-element/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
