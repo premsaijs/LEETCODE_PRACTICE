@@ -40,6 +40,7 @@
 | [0011-container-with-most-water](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0011-container-with-most-water/) | Medium |
 | [0162-find-peak-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -262,4 +263,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0216-combination-sum-iii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
