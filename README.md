@@ -26,6 +26,7 @@
 | [0443-string-compression](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0649-dota2-senate/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -87,6 +88,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Sliding Window
