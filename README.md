@@ -50,6 +50,7 @@
 | [0399-evaluate-division](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0399-evaluate-division/) | Medium |
 | [0605-can-place-flowers](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -72,6 +73,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0649-dota2-senate/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -85,6 +87,7 @@
 | ------- | ------- |
 | [0198-house-robber](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0392-is-subsequence/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1137-n-th-tribonacci-number/) | Easy |
