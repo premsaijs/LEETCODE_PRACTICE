@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0072-edit-distance](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0392-is-subsequence/) | Easy |
@@ -85,6 +86,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0392-is-subsequence/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
