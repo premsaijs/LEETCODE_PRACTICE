@@ -88,6 +88,7 @@
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0198-house-robber/) | Medium |
+| [0338-counting-bits](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0392-is-subsequence/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -282,4 +283,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
