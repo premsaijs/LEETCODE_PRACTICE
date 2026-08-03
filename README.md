@@ -20,6 +20,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0072-edit-distance](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0394-decode-string/) | Medium |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -159,6 +161,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Queue
@@ -290,4 +293,8 @@
 | [0136-single-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0338-counting-bits/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
