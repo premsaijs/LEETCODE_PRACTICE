@@ -59,6 +59,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0994-rotting-oranges/) | Medium |
@@ -162,6 +163,7 @@
 | ------- | ------- |
 | [0394-decode-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0739-daily-temperatures/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Recursion
@@ -310,4 +312,8 @@
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1268-search-suggestions-system](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1268-search-suggestions-system/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
