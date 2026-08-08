@@ -164,6 +164,7 @@
 | [0394-decode-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0901-online-stock-span/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Recursion
@@ -175,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0901-online-stock-span](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Queue
@@ -185,6 +187,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -316,4 +319,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
