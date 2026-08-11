@@ -51,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0216-combination-sum-iii/) | Medium |
@@ -132,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0169-majority-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -142,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -151,6 +154,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -281,6 +285,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -327,4 +332,8 @@
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0901-online-stock-span/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
