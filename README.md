@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0283-move-zeroes/) | Easy |
@@ -46,6 +47,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0162-find-peak-element/) | Medium |
