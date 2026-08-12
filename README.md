@@ -49,6 +49,7 @@
 | [0027-remove-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0169-majority-element/) | Easy |
@@ -103,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0072-edit-distance/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0392-is-subsequence/) | Easy |
