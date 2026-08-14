@@ -47,6 +47,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0027-remove-element/) | Easy |
+| [0045-jump-game-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
@@ -88,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -107,6 +109,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0055-jump-game/) | Medium |
 | [0072-edit-distance](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
