@@ -45,6 +45,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0027-remove-element/) | Easy |
 | [0045-jump-game-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0045-jump-game-ii/) | Medium |
@@ -143,6 +144,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
