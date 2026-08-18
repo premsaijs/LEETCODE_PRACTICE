@@ -9,6 +9,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0392-is-subsequence/) | Easy |
@@ -56,6 +57,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -139,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/premsaijs/LEETCODE_PRACTICE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
